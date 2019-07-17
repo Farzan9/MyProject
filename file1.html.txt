@@ -2,4 +2,7 @@
 	<head>
 		Welcome to GIT
 	</head>
+	<body bgcolor="blue">
+		Git is used for version controlling
+	</body>
 </html>
